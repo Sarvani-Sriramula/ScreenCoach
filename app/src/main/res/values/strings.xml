@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ScreenCoach</string>
+
+    <string name="monitoring_settings">Monitoring Settings</string>
+    <string name="enable_monitoring">Enable Monitoring</string>
+    <string name="privacy_text">Privacy: All data stored locally on device</string>
+    <string name="today_screen_time">Screen Time for Today: 0m</string>
+    <string name="comparison_text">Compared to yesterday: -</string>
+    <string name="current_session">Current Session: 0m</string>
+    <string name="breaks_taken">Breaks Taken: 0</string>
+    <string name="recommended_action">Recommended Action: -</string>
+    <string name="impact_messages">Impact Messages</string>
+    <string name="healthy_action_messages">Healthy Action Messages</string>
+    <string name="weekly_trend">Weekly Screen Time Trend</string>
+
+    <string name="home">Home</string>
+    <string name="insights">Insights</string>
+    <string name="messages">Messages</string>
+    <string name="settings">Settings</string>
+
+</resources>
